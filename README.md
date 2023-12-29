@@ -4,7 +4,7 @@ Questo è il file README per il progetto SZScrape.
 
 ## Descrizione
 
-SZScrape è uno strumento di web scraping che consente di estrarre dati dal sito web del Süddeutsche Zeitung (SZ), un giornale tedesco. Mostra solo gli articoli che non ha mostrato in invocazioni precedenti. Per questo scopo utilizza un hash persistente dentro un file JSON
+SZScrape  è uno strumento di web scraping che consente di estrarre dati dal sito web del Süddeutsche Zeitung (SZ), un giornale tedesco. Mostra solo gli articoli che non ha mostrato in invocazioni precedenti. Per questo scopo utilizza un hash persistente dentro un file JSON
 
 ## Installazione
 
