@@ -15,6 +15,7 @@ def read_persistent_hash_set() -> set:
     """
     Reads the last run hash set from the 'last_run_hash.json' file.
     If the file doesn't exist or is empty, a new hash set is created.
+    You cannot use the Python hash() function because it uses different random seeds at every run.
 
     Returns:
         last_run_hash_set (set): The last run hash set.
